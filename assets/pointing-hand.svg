@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 140 84" width="140" height="84" aria-hidden="true">
+  <!-- Hard 3D shadow offset -->
+  <g transform="translate(4,4)">
+    <rect x="6" y="20" width="18" height="42" fill="#292a2c"/>
+    <path d="M24 22 L66 22 L66 12 L84 12 L84 22 L130 22 L130 36 L88 36 L88 45 L84 45 L84 53 L79 53 L79 62 L24 62 Z" fill="#292a2c"/>
+  </g>
+  <!-- Cuff -->
+  <rect x="4" y="18" width="18" height="42" fill="#ff4100" stroke="#292a2c" stroke-width="3.5" stroke-linejoin="miter"/>
+  <rect x="9" y="25" width="7" height="7" fill="#ffc700" stroke="#292a2c" stroke-width="2"/>
+  <!-- Retro cartoon pointing glove -->
+  <path d="M22 20 L58 20 L65 10 L79 10 L79 20 L128 20 L128 34 L86 34 L86 43 L81 43 L81 52 L75 52 L75 60 L22 60 Z" fill="#ffc700" stroke="#292a2c" stroke-width="3.5" stroke-linejoin="miter"/>
+  <!-- Finger fold lines -->
+  <line x1="60" y1="34" x2="86" y2="34" stroke="#292a2c" stroke-width="3" stroke-linecap="square"/>
+  <line x1="58" y1="43" x2="81" y2="43" stroke="#292a2c" stroke-width="3" stroke-linecap="square"/>
+  <line x1="56" y1="52" x2="75" y2="52" stroke="#292a2c" stroke-width="3" stroke-linecap="square"/>
+  <!-- Action lines -->
+  <line x1="133" y1="22" x2="139" y2="18" stroke="#292a2c" stroke-width="3" stroke-linecap="square"/>
+  <line x1="134" y1="30" x2="140" y2="30" stroke="#292a2c" stroke-width="3" stroke-linecap="square"/>
+</svg>

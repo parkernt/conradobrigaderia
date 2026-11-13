@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="200" height="200" aria-hidden="true">
+  <!-- 16-point sharp geometric starburst (0px radius, mitered points) -->
+  <polygon
+    points="100,4 114,42 137,11 135,51 168,32 151,69 189,63 159,90 196,100 159,110 189,137 151,131 168,168 135,149 137,189 114,158 100,196 86,158 63,189 65,149 32,168 49,131 11,137 41,110 4,100 41,90 11,63 49,69 32,32 65,51 63,11 86,42"
+    fill="#ffc700"
+    stroke="#292a2c"
+    stroke-width="3"
+    stroke-linejoin="miter"
+  />
+</svg>

@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 44" width="320" height="44" preserveAspectRatio="none" aria-hidden="true">
+  <!-- Hard-edge offset shadow zigzag -->
+  <polyline
+    points="4,35 28,11 52,35 76,11 100,35 124,11 148,35 172,11 196,35 220,11 244,35 268,11 292,35 316,11"
+    fill="none"
+    stroke="#292a2c"
+    stroke-width="8"
+    stroke-linecap="square"
+    stroke-linejoin="miter"
+  />
+  <!-- Primary Sun Yellow zigzag -->
+  <polyline
+    points="0,31 24,7 48,31 72,7 96,31 120,7 144,31 168,7 192,31 216,7 240,31 264,7 288,31 312,7"
+    fill="none"
+    stroke="#ffc700"
+    stroke-width="8"
+    stroke-linecap="square"
+    stroke-linejoin="miter"
+  />
+</svg>
